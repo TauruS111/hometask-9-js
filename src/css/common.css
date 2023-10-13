@@ -16,3 +16,42 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.switcher {
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+}
+
+.swit {
+  margin-right: 20px;
+}
+
+.start {
+  display: flex;
+  justify-content: center;
+}
+
+.label {
+  color: goldenrod;
+}
+
+.value {
+  color: fuchsia;
+}
+
+.timer {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  padding-top: 50px;
+}
+
+.first {
+  margin-right: 10px;
+  background-color: goldenrod;
+}
+
+.click {
+  background-color: red;
+}
