@@ -55,3 +55,12 @@ img {
 .click {
   background-color: red;
 }
+
+.form {
+  display: flex;
+  justify-content: center;
+}
+
+.lab {
+  margin-right: 10px;
+}
